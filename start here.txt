@@ -1,0 +1,12 @@
+2021-07-23
+- purpose: practice Bootstrap and responsiveness
+- topics covered:
+	- navbar
+	- layout
+	- btns
+	- conatiner
+	- media queries
+	- clean, refactored CSS 
+- site description: a day with Naif and Abdu 
+
+

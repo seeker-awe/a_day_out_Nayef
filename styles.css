@@ -1,0 +1,48 @@
+* {
+  font-family: verdana;
+  color: gray;
+}
+h3,h4,h5 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+div > img {
+    width: 100%;
+    height: 100%;
+}
+.logo {
+  width:70%;
+  /* position: fixed;
+  right: 5%;
+  top:1%; */
+}
+.row {
+  margin-bottom: 10%;
+}
+.navbar-brand {
+  font-family: 'Rakkas', cursive;
+  font-size: 2rem;
+}
+.main-frame{
+  /* text-align:center; */
+  margin: auto;
+  width: 70%;
+}
+.images {
+  margin-bottom: 4%;
+}
+.section {
+  margin:15% 0 15% 0;
+}
+.footer {
+  margin-top: 10%;
+  text-align: center;
+}
+
+
+@media (max-width: 1000px) {
+  .main-frame {
+    width: 100%;
+    padding: 0 5% 0 5%;
+  }
+}
